@@ -15,7 +15,7 @@ function App() {
     height:window.innerHeight,
     width:window.innerWidth
   });
-  let accessToken = 'pk.eyJ1Ijoib2JlbmRlc21vbmQiLCJhIjoiY2ttYnFyNjB5MHd3OTJucWxpdXgxbWpyayJ9.fhWFfnoLa8ZMm681J7VfCw';
+  let accessToken = 'pk.eyJ1Ijoib2Jl************************8';
 
   return (
     <div >
